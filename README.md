@@ -1,5 +1,6 @@
 # Basic React Projects
-For each projects I tried to use different APIs and different design tools. 
+JavaScript, React and HTML <br />
+For each projects I tried to use different APIs and different design tools. <br />
 ![VidSec](https://github.com/brtkrclr/BasicReactProjects/blob/master/VideoSearch/VideoSearch.png?raw=true)
 ![PicSearcy](https://github.com/brtkrclr/BasicReactProjects/blob/master/PicSearch/pic.png?raw=true)
 ![Roogle](https://github.com/brtkrclr/BasicReactProjects/blob/master/Roogle/Roogle.png?raw=true)
